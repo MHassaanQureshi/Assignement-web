@@ -23,9 +23,9 @@ export default function Home(){
     <div className="w-1/2 justify-center align-middle mt-24   ml-[25%]">
       <h1 className="flex font-bold text-xl">Featured Works</h1>
       <div className="mt-12">
-        <Work image="/public/images/Rectangle 30.png"/>
-        <Work image="/public/images/Rectangle 32.png"/>
-        <Work image="/public/images/Rectangle 34.png"/>
+        <Work image="/images/Rectangle 30.png"/>
+        <Work image="/images/Rectangle 32.png"/>
+        <Work image="/images/Rectangle 34.png"/>
       </div>
     </div>
     </>
