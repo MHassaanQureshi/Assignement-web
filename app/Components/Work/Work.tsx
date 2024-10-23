@@ -9,7 +9,7 @@ const Work: React.FC<ProjProps> = ({ image }) => {
         <>
         <div className="flex  p-4 mb-4">
         <div className="pr-4">
-            <Image src={image} alt="unable to load" width={246} height={184}/>
+            <Image src=`/images/${image}` alt="unable to load" width={246} height={184}/>
         </div>
         <div className="flex flex-col gap-4">
             <h1 className="text-xl font-bold ">Designing Dashboard</h1>
