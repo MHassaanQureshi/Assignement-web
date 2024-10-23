@@ -7,7 +7,7 @@ export default function Footer(){
             <Image src="/images/fb.png" alt="" width={30} height={30}/>
             <Image src="/images/insta.png" alt="" width={30} height={30}/>
             <Image src="/images/twitter.png" alt="" width={30} height={30}/>
-            <Image src="/images/linkedin.png" alt="" width={30} height={30}/>
+            <Image src="/images/Linkedin.png" alt="" width={30} height={30}/>
         </div>
             <p className="p-4 justify-center">copyright @2020 All right reserved</p>
         </div>
